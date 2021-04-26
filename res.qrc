@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>eye_icon.png</file>
+        <file>options_icon.png</file>
+    </qresource>
+</RCC>
